@@ -147,4 +147,3 @@ This repository showcases how machine learning models can be applied across vari
 
 ---
 
-Feel free to clone this repository and explore the code and datasets used in each project. Contributions and feedback are always welcome!
