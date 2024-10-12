@@ -57,11 +57,6 @@ Both models use public datasets to predict outcomes related to breast cancer dia
    
 ---
 
-## Stroke Model Enhancements
-
-Here is the updated section for the Stroke Model with the new SMOTE results:
-
----
 
 ## Stroke Model Enhancements
 
