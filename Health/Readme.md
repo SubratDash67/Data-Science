@@ -105,8 +105,4 @@ To address the class imbalance in the stroke dataset, SMOTE was applied. The fol
 2. **Undefined Metric Warning**:
    - For the stroke prediction model, precision and f1-score were reported as `0.0` for the minority class due to the lack of predicted samples. This was mainly observed in the non-SMOTE models.
 
----
-
-This README provides an overview of the performance, results, and challenges in the breast cancer and stroke prediction models in this repository. Further model improvements can be achieved through handling class imbalance in the stroke dataset and experimenting with more advanced machine learning algorithms.
-
 
